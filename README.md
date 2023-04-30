@@ -1,0 +1,2 @@
+# django-cinema
+Django cinema
